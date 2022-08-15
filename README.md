@@ -17,6 +17,6 @@ GUI version of Dlib library-based face recognition time and attendance system.
     <td align="center"><img src="img/2.jpg" /> </td>
   </tr>
   <tr>
-    <td align="center">Fig.2System user interface UI diagram.</td>
+    <td align="center">Fig.2 System user interface UI diagram.</td>
   </tr>
 </div>
